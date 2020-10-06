@@ -1,0 +1,82 @@
+body
+{
+	background-color: #95A5A6;
+}
+
+
+.b1{
+	position: relative;
+	top: 20px;
+	background: url(../foto/img3.png);
+	height: 57px;
+	width: 200px;
+	color: #95A5A6;
+	font-family: arial;
+	left: 20px;
+}
+
+.b1:hover{
+ 	position: relative;
+	top: 20px;
+	background: url(../foto/img3.png);
+	height: 57px;
+	width: 200px;
+	font-family: arial;
+	color: #3E423B;
+	left: 20px;
+}
+
+.letra1
+{
+	position: relative;
+	left: 210px;
+	top: -10px;
+}
+
+.b2{
+
+	position: relative;
+	top: 180px;
+	background: url(../foto/img4.png);
+	height: 65px;
+	width: 200px;
+	color: #95A5A6;
+	font-family: arial;
+	left: 20px;
+}
+
+.b2:hover{
+
+	position: relative;
+	top: 180px;
+	background: url(../foto/img4.png);
+	height: 65px;
+	width: 200px;
+	color: #3E423B;
+	font-family: arial;
+	left: 20px;
+
+}
+
+.letra2
+{
+	position: relative;
+	top: -10px;
+	left: 220px;
+}
+
+.op
+{
+    position: absolute;
+	top: 100px;
+	left: 100px;
+	background: red;
+	border-radius: 8px;
+	border: solid black	 2px;
+	color: red;
+	padding: 45px;
+	left: 500px;
+	font-size: 20px;
+	color: black;
+
+}
